@@ -1,0 +1,46 @@
+
+.fotter{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+   background-image: linear-gradient(rgb(30,33,36),rgb(219, 59, 59));
+   position: fixed;
+   padding: 10px;
+   width: 100%;
+   bottom: 0;
+}
+
+.icon-house {
+    width: 24px;
+    height: 24px;
+    color: white;
+ 
+  }
+
+  .icon-setting{
+    width: 24px;
+    height: 24px;
+    color: white;
+    
+    margin-right: 20px; /*May lead to confuse later cuz it is just using margin.*/
+  }
+  
+  .icon-search {
+    width: 24px;
+    height: 24px;
+    color: white;
+  
+  }
+
+  .icon-notification{
+    width: 24px;
+    height: 24px;
+    color: white;
+  }
+
+  .icon-person_for_search{
+    width: 24px;
+    height: 24px;
+    color: white;
+  }

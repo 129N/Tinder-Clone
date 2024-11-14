@@ -1,0 +1,62 @@
+.SwipeButtons{
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.SwipeButtons .MuiIconButton-root{ /* It changes the color of the circle part */
+    background-color: rgba(255, 0, 0, 0.61);
+    box-shadow: 0px 10px 53px 0px rgba(240, 238, 238, 0.3) !important;
+}
+/*.swipe_button_repeat{
+    padding: 3vw !important;
+    color: black !important;
+}*/
+.swipe_button_x{
+    padding: 3vw !important;
+    color: white !important;
+}
+
+
+
+.swipe_ChatBubbleIcon{
+    padding: 3vw !important;
+    color: white !important;
+
+}
+
+
+.swipe_button_heart{
+    padding: 3vw !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+/*.swipe_button_lightning{
+    padding: 3vw !important;
+    color: black !important;
+}*/
+
+.Icon-Heart{
+    padding: 3vw !important;
+    color: white !important;
+
+    width: 48px;
+    height: 48px;
+}
+
+.Icon-Chat{
+    padding: 3vw !important;
+    color: white !important;
+
+    width: 48px;
+    height: 48px;
+}
+
+.Icon-work{
+    padding: 3vw !important;
+    color: white !important;
+
+    width: 48px;
+    height: 48px;
+}

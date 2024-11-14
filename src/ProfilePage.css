@@ -1,0 +1,13 @@
+.ProfileBG{
+    height: 110vh;
+    background-image: linear-gradient(#1e2124,#1e2124);
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    color: aliceblue;
+}
+
+.profile_info{
+    color: aliceblue;
+}

@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(219, 195, 195);
+    align-items: center;
+   background-image: linear-gradient(rgb(219, 59, 59),rgb(30,33,36));
+}
+
+.header__logo{
+    height: 40px;
+    /*object-fit: contain;*/
+    width: 60px;
+
+}
+
+.header__icon{
+    padding: 20px;
+}
+
+.header__icon:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+.header__icon:hover::after {
+    color: #ff4500; 
+}
+
+.Icon-Chat{
+    color: white;
+    width: 50px;
+    height:50px ;
+}
+
+.custom-icon-button .MuiTouchRipple-root {
+    color: rgb(255, 255, 255); /* Change to any color you like */
+  }
+  
+
+  .Icon-User{
+    color: white;
+    width: 50px;
+    height:50px ;
+  }
