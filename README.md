@@ -1,6 +1,6 @@
 # Tinder Clone App 
 
-A mobile app that replicates core Tinder functionality using **React Native (Expo)** and **Firebase**.  
+A mobile app that replicates core Tinder functionality using **React ** and **Firebase**.  
 スワイプ、チャットのUIを再現した Tinder風クローンアプリです。
 
 ---
