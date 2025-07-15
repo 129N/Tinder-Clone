@@ -51,7 +51,8 @@ npm install
 
 4 Start the development server / Expoを起動
 ```bash 
-npx expo start
+npm start
+npm run dev
 ```
 
 ## Acknowledgements / クレジット
